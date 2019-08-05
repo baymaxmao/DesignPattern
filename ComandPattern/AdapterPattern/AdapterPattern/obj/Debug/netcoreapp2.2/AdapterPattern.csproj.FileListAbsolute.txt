@@ -1,0 +1,11 @@
+E:\DesignPattern\ComandPattern\AdapterPattern\AdapterPattern\bin\Debug\netcoreapp2.2\AdapterPattern.deps.json
+E:\DesignPattern\ComandPattern\AdapterPattern\AdapterPattern\bin\Debug\netcoreapp2.2\AdapterPattern.runtimeconfig.json
+E:\DesignPattern\ComandPattern\AdapterPattern\AdapterPattern\bin\Debug\netcoreapp2.2\AdapterPattern.runtimeconfig.dev.json
+E:\DesignPattern\ComandPattern\AdapterPattern\AdapterPattern\bin\Debug\netcoreapp2.2\AdapterPattern.dll
+E:\DesignPattern\ComandPattern\AdapterPattern\AdapterPattern\bin\Debug\netcoreapp2.2\AdapterPattern.pdb
+E:\DesignPattern\ComandPattern\AdapterPattern\AdapterPattern\obj\Debug\netcoreapp2.2\AdapterPattern.csprojAssemblyReference.cache
+E:\DesignPattern\ComandPattern\AdapterPattern\AdapterPattern\obj\Debug\netcoreapp2.2\AdapterPattern.csproj.CoreCompileInputs.cache
+E:\DesignPattern\ComandPattern\AdapterPattern\AdapterPattern\obj\Debug\netcoreapp2.2\AdapterPattern.AssemblyInfoInputs.cache
+E:\DesignPattern\ComandPattern\AdapterPattern\AdapterPattern\obj\Debug\netcoreapp2.2\AdapterPattern.AssemblyInfo.cs
+E:\DesignPattern\ComandPattern\AdapterPattern\AdapterPattern\obj\Debug\netcoreapp2.2\AdapterPattern.dll
+E:\DesignPattern\ComandPattern\AdapterPattern\AdapterPattern\obj\Debug\netcoreapp2.2\AdapterPattern.pdb

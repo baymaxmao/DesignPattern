@@ -1,0 +1,11 @@
+E:\DesignPattern\ModelFunc\ModelFunc\bin\Debug\netcoreapp2.2\ModelFunc.deps.json
+E:\DesignPattern\ModelFunc\ModelFunc\bin\Debug\netcoreapp2.2\ModelFunc.runtimeconfig.json
+E:\DesignPattern\ModelFunc\ModelFunc\bin\Debug\netcoreapp2.2\ModelFunc.runtimeconfig.dev.json
+E:\DesignPattern\ModelFunc\ModelFunc\bin\Debug\netcoreapp2.2\ModelFunc.dll
+E:\DesignPattern\ModelFunc\ModelFunc\bin\Debug\netcoreapp2.2\ModelFunc.pdb
+E:\DesignPattern\ModelFunc\ModelFunc\obj\Debug\netcoreapp2.2\ModelFunc.csprojAssemblyReference.cache
+E:\DesignPattern\ModelFunc\ModelFunc\obj\Debug\netcoreapp2.2\ModelFunc.csproj.CoreCompileInputs.cache
+E:\DesignPattern\ModelFunc\ModelFunc\obj\Debug\netcoreapp2.2\ModelFunc.AssemblyInfoInputs.cache
+E:\DesignPattern\ModelFunc\ModelFunc\obj\Debug\netcoreapp2.2\ModelFunc.AssemblyInfo.cs
+E:\DesignPattern\ModelFunc\ModelFunc\obj\Debug\netcoreapp2.2\ModelFunc.dll
+E:\DesignPattern\ModelFunc\ModelFunc\obj\Debug\netcoreapp2.2\ModelFunc.pdb

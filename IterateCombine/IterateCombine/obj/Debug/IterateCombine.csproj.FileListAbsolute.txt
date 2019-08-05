@@ -1,0 +1,7 @@
+E:\DesignPattern\IterateCombine\IterateCombine\bin\Debug\IterateCombine.exe.config
+E:\DesignPattern\IterateCombine\IterateCombine\bin\Debug\IterateCombine.exe
+E:\DesignPattern\IterateCombine\IterateCombine\bin\Debug\IterateCombine.pdb
+E:\DesignPattern\IterateCombine\IterateCombine\obj\Debug\IterateCombine.csprojAssemblyReference.cache
+E:\DesignPattern\IterateCombine\IterateCombine\obj\Debug\IterateCombine.csproj.CoreCompileInputs.cache
+E:\DesignPattern\IterateCombine\IterateCombine\obj\Debug\IterateCombine.exe
+E:\DesignPattern\IterateCombine\IterateCombine\obj\Debug\IterateCombine.pdb
